@@ -11,7 +11,7 @@ lombok
 Docker CE
 
 ## To start
-To start this application, clone this repo (https://github.com/DivitGitHub/spring-boot-simple-rest-api.git)
+To start this application, clone this repo (https://github.com/BINPIPE/spring-boot-simple-rest-api.git)
 
 Build:
 ```
